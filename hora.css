@@ -1,6 +1,56 @@
 *{
     margin: 0;
+    padding: 5px;
+}
+body{
+    background-color: #F4F4F0;
+    color: #1A1A1A;
+}
+.Alerta{
+    color: #C1121F;
 }
 .Padre{
     display: flex;
+}
+h6{
+    color: #4A4A4A;
+}
+hr{
+    color: #D3D3D3;
+}
+.articulo_spd{
+    font-size: 28px;
+}
+.articulo_hlk{
+    font-size: 23px;
+}
+.Titulo1{
+    font-size: 60px;
+    text-align: center;
+}
+.Titulo2{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.Seccion_Hulk{
+    margin-right: 10px;
+}
+.Seccion_Hulk img{
+    margin-top: 20px;
+}
+.Alerta_dare{
+    font-size: 35px;
+}
+.Seccion_Dare{
+    font-size: 25px;
+}
+.seccion_dare2 img{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Articulo_dare{
+    font-size: 25px;
+}
+.seccion_puni{
+    margin-top: 150px;
 }
