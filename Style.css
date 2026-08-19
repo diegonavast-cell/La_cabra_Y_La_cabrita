@@ -3,6 +3,36 @@
 }
 .titulo{
     text-align: center;
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
+    background-color: rgb(253, 250, 250);
+    margin-bottom: 0;
     
+}
+.barra1{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0;
+}
+.parte1{
+    margin-right: 300px;
+}
+.parte2{
+    margin-right: 20px;
+}
+.barra2{
+    display: flex;
+}
+.imagenbarra1{
+    width: 50px;
+}
+.barra2-1{
+    display: flex;
+    background-color: brown;
+    margin-right: 10px;
+    width: 600px;
+}
+.barra2-2{
+    display: flex;
+    background-color: brown;
+    width: 600px;
 }
